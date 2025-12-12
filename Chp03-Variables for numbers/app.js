@@ -50,26 +50,6 @@
 
 
 
-        // function trackVisitorCount() {
-        //     let visitCount = localStorage.getItem('page_visit_count');
-
-        //     if (visitCount) {
-        //         visitCount = parseInt(visitCount) + 1;
-        //     } else {
-        //         visitCount = 1;
-        //     }
-
-        //     localStorage.setItem('page_visit_count', visitCount.toString());
-        //     alert(`You have visited this site ${visitCount} times.`);
-        // }
-        // trackVisitorCount();
-
-
-
-
-
-
-
 
 
 
